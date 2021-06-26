@@ -1,0 +1,24 @@
+{
+  "name": "pmelo-palindrome",
+  "version": "1.0.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruidin/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "Patricia Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cruidin/palindrome/issues"
+  },
+  "homepage": "https://github.com/cruidin/palindrome#readme"
+}
